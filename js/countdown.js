@@ -18,7 +18,7 @@ simplyCountdown('#cuenta', {
 	// in case of inline set to false
 	enableUtc: true, //Use UTC as default
 	onEnd: function() {
-		window.location.href = "https://endearing-baklava-f7930d.netlify.app";
+		window.location.href = "https://minting-dapp-catlandkitten-female.netlify.app";
 		return; 
 	}, //Callback on countdown end, put your own function here
 	refresh: 1000, // default refresh every 1s
